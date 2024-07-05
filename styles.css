@@ -1,0 +1,15 @@
+h1 {
+    color: brown;
+    margin-bottom: 30px;
+    font-size: 45px;
+}
+p {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+img {
+    margin-bottom: 30px;
+}
+.output{
+    color: brown;
+ }
